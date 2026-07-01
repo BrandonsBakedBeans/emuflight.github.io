@@ -41,6 +41,7 @@ ABG is more of a movement promotor than it is a filter. It can be used to track 
 The lower the Alpha value, the more the output is filtered. Disable by setting Alpha value to 0.
 ABG boost will decrease ABG latency, but higher values may feel unnatural.
 ABG has memory and it decays based on abg halflife, where the value is in ms.
+
 AB (αβ) filter reading is very helpful as well: https://en.wikipedia.org/wiki/Alpha_beta_filter
 
 ### ABG settings accessible via expert-mode
